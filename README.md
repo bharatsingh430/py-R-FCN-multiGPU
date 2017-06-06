@@ -7,6 +7,8 @@ py-R-FCN-multiGPU supports multiGPU training of detectors like faster-rcnn and p
 
 ## [Soft-NMS](https://github.com/bharatsingh430/soft-nms/) repository gets better results on COCO, so please refer to it.
 
+## [Soft-NMS+D-RFCN](https://github.com/bharatsingh430/Deformable-ConvNets/) repository gets 40.9% mAP COCO.
+
 ### Disclaimer
 
 The official R-FCN code (written in MATLAB) is available [here](https://github.com/daijifeng001/R-FCN).
